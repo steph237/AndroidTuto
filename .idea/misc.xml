@@ -6,7 +6,7 @@
         <entry key="..\:/Users/Beginning/AndroidStudioProjects/logIn/app/src/main/res/drawable/edit_text.xml" value="0.1155" />
         <entry key="..\:/Users/Beginning/AndroidStudioProjects/logIn/app/src/main/res/drawable/gradientbg.xml" value="0.16799999999999998" />
         <entry key="..\:/Users/Beginning/AndroidStudioProjects/logIn/app/src/main/res/drawable/shape.xml" value="0.1115" />
-        <entry key="..\:/Users/Beginning/AndroidStudioProjects/logIn/app/src/main/res/layout/activity_main.xml" value="0.176" />
+        <entry key="..\:/Users/Beginning/AndroidStudioProjects/logIn/app/src/main/res/layout/activity_main.xml" value="0.136" />
         <entry key="..\:/Users/Beginning/AndroidStudioProjects/logIn/app/src/main/res/layout/custom_image.xml" value="0.1" />
         <entry key="..\:/Users/Beginning/AndroidStudioProjects/logIn/app/src/main/res/layout/login_fragment.xml" value="0.176" />
       </map>
@@ -17,5 +17,12 @@
   </component>
   <component name="ProjectType">
     <option name="id" value="Android" />
+  </component>
+  <component name="VisualizationToolProject">
+    <option name="state">
+      <ProjectState>
+        <option name="scale" value="0.176" />
+      </ProjectState>
+    </option>
   </component>
 </project>

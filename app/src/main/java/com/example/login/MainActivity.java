@@ -12,6 +12,7 @@ public class MainActivity extends AppCompatActivity {
         setContentView(R.layout.activity_main);
 
         getActionBar().setDisplayShowCustomEnabled(true);
-        getLayoutInflater(inflater = this.getSystemService(Context) )
+//        getLayoutInflater();
+//        getLayoutInflater(inflater = this.getSystemService(Context) );
     }
 }
